@@ -34,11 +34,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/account.js"
     ],
-    "/next/dist/pages/_error": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/next/dist/pages/_error.js"
-    ],
     "/order": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -48,6 +43,11 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/products.js"
+    ],
+    "/sell": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/sell.js"
     ]
   },
   "ampFirstPages": []
