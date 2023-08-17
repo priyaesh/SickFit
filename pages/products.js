@@ -1,5 +1,7 @@
+import Products from '../components/Products';
+
 export default function products() {
     return <div>
-      <p>Products!</p>
+      <Products/>
     </div>
   }
